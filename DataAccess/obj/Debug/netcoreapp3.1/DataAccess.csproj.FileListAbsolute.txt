@@ -1,0 +1,13 @@
+C:\Users\aydin\source\repos\MyFinalProject\DataAccess\bin\Debug\netcoreapp3.1\DataAccess.deps.json
+C:\Users\aydin\source\repos\MyFinalProject\DataAccess\bin\Debug\netcoreapp3.1\DataAccess.dll
+C:\Users\aydin\source\repos\MyFinalProject\DataAccess\bin\Debug\netcoreapp3.1\DataAccess.pdb
+C:\Users\aydin\source\repos\MyFinalProject\DataAccess\bin\Debug\netcoreapp3.1\Entities.dll
+C:\Users\aydin\source\repos\MyFinalProject\DataAccess\bin\Debug\netcoreapp3.1\Entities.pdb
+C:\Users\aydin\source\repos\MyFinalProject\DataAccess\obj\Debug\netcoreapp3.1\DataAccess.csproj.AssemblyReference.cache
+C:\Users\aydin\source\repos\MyFinalProject\DataAccess\obj\Debug\netcoreapp3.1\DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aydin\source\repos\MyFinalProject\DataAccess\obj\Debug\netcoreapp3.1\DataAccess.AssemblyInfoInputs.cache
+C:\Users\aydin\source\repos\MyFinalProject\DataAccess\obj\Debug\netcoreapp3.1\DataAccess.AssemblyInfo.cs
+C:\Users\aydin\source\repos\MyFinalProject\DataAccess\obj\Debug\netcoreapp3.1\DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\aydin\source\repos\MyFinalProject\DataAccess\obj\Debug\netcoreapp3.1\DataAccess.csproj.CopyComplete
+C:\Users\aydin\source\repos\MyFinalProject\DataAccess\obj\Debug\netcoreapp3.1\DataAccess.dll
+C:\Users\aydin\source\repos\MyFinalProject\DataAccess\obj\Debug\netcoreapp3.1\DataAccess.pdb
