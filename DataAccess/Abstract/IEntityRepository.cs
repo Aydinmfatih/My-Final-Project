@@ -10,9 +10,9 @@ namespace DataAccess.Abstract
     {
         List<T> GetAll(Expression<Func<T,bool>>filter=null);
         T Get(Expression<Func<T, bool>> filter);
-        void Add(T category);
-        void Delete(T category);
-        void Update(T category);
+        void Add(T entity);
+        void Delete(T entity);
+        void Update(T entity);
 
     }
 }
