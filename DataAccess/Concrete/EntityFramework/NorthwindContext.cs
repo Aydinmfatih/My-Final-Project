@@ -8,6 +8,7 @@ namespace DataAccess.Concrete.EntityFramework
 {
     public class NorthwindContext:DbContext
     {
+       
         protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
         {
             optionsBuilder.UseSqlServer(@"Server=(localdb)\mssqllocaldb;Database=Northwind;Trusted_Connection=true"); 
